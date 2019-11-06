@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "FiTX",
+    "description": "This project is really great.",
+    "slug": "FiTX",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "facebookAppId": "289150898353901",
+    "facebookDisplayName": "FiTX",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
